@@ -1,0 +1,1 @@
+document.write("HEY HOW ARE YOU ")
